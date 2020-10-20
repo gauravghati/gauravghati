@@ -12,11 +12,11 @@
 
 <div align="center">
   
-<a href="https://www.linkedin.com/in/gauravghati" target="_blank" title="Connect me on LinkedIn">
+<a href="https://www.linkedin.com/in/gauravghati" target="_blank" title="Connect me on LinkedIn" target="_blank">
   <img align="center" alt="Gaurav's LinkdeIn" src="https://img.shields.io/badge/&#47;gauravghati%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://gauravghati.github.io/Resume_GauravGhati.pdf" title="Resume">
+<a href="https://gauravghati.github.io/Resume_GauravGhati.pdf" title="Resume" target="_blank">
   <img align="center" alt="PlayStore" src="https://img.shields.io/badge/Resume%20-%23326ce5.svg?&style=for-the-badge&logo=microsoft-word&logoColor=white" />
 </a>
 </div>
