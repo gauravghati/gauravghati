@@ -8,8 +8,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Gaurav's Github Stats](https://github-readme-stats.vercel.app/api?username=gauravghati&count_private=true&show_icons=true&include_all_commits=true)
-
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=gauravghati&count_private=true&show_icons=true&include_all_commits=true alt=gauravghati /> </p>
 
 <p align="center"> 
