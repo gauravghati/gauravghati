@@ -9,10 +9,3 @@
 - ⚡ Fun fact: ...
 -->
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=gauravghati&count_private=true&show_icons=true&include_all_commits=true alt=gauravghati /> </p>
-
-<p align="center"> 
-<a href=https://www.linkedin.com/in/gauravghati/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg height="20" width="20" /></a>
-<a href=https://gauravghati.herokuapp.com/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/circle.svg height="20" width="20" /></a>
-<a href=https://twitter.com/gauravghati target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg height="20" width="20" /></a>
-<a href=mailto:gurvghati@gmail.com target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg height="20" width="20" /></a>
-</p>
