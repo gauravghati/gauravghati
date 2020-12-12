@@ -34,7 +34,7 @@
   <tr>
     <td><a href=""><b>Credenz Website Backend</b></a></td>
     <td>Node JS, MongoDB</td>
-    <td>Created main website backend APIs for Technical Fest (Credenz 20)</td>
+    <td>Main website backend APIs for Technical Fest (Credenz 20)</td>
   </tr>
   <tr>
     <td><a href="https://github.com/gauravghati/Question-Portal"><b>Question Portal</b></a></td>
@@ -44,7 +44,7 @@
   <tr>
     <td><a href="https://github.com/gauravghati/Emojifier"><b>Emojifier</b></a></td>
     <td>Python, NLP</td>
-    <td>NLP project to Predict the Emojis for the Given Text</td>
+    <td>NLP classification project to Predict the Emojis for the Given Text</td>
   </tr>
   <tr>
     <td><a href="https://github.com/CTD-NCC/NCC20"><b>NCC '20</b></a> and <a href="https://github.com/clash-rc-round-2/Clash-Round-2"><b>Clash RC</b></a></td>
