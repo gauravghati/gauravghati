@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td><a href="https://github.com/gauravghati/kitsune"><b>Mozilla kitsune</b></a></td>
-    <td>Column 1</td>
+    <td>Kitsune is the web platform that powers Mozilla support Website (support.mozilla.org)</td>
   </tr>
   <tr>
     <td><a href="https://github.com/gauravghati/mlpack/"><b>MLpack</b></a></td>
-    <td>Column 1</td>
+    <td>MLpack is a C++ machine learning library</td>
   </tr>
 </table>
 
@@ -34,27 +34,22 @@
   <tr>
     <td><a href=""><b>Credenz Website Backend</b></a></td>
     <td>Node JS, MongoDB</td>
-    <td></td>
+    <td>Created main website backend APIs for Technical Fest i.e. Credenz ‘20</td>
   </tr>
   <tr>
     <td><a href="https://github.com/gauravghati/Question-Portal"><b>Question Portal</b></a></td>
     <td>Node JS, MongoDB</td>
-    <td></td>
+    <td>Website for accepting the competitive programming questions.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/gauravghati/Emojifier"><b>Emojifier</b></a></td>
     <td>Python, NLP</td>
-    <td></td>
+    <td>NLP project to Predict the Emojis for the Given Text</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/CTD-NCC/NCC20"><b>NCC '20</b></a></td>
-    <td>Djnago REST</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/clash-rc-round-2/Clash-Round-2"><b>Clash RC</b></a></td>
-    <td>Django</td>
-    <td></td>
+    <td><a href="https://github.com/CTD-NCC/NCC20"><b>NCC '20</b></a> and <a href="https://github.com/clash-rc-round-2/Clash-Round-2"><b>Clash RC</b></a></td>
+    <td>Djnago REST, MySQL</td>
+    <td>Online Judge of C/CPP/Python for the contestants to submit the code</td>
   </tr>
 </table>
 
