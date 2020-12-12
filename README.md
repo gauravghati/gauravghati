@@ -29,7 +29,7 @@
   <tr>
     <td><a href=""><b>Hospital Management System</b></a></td>
     <td>Java Swing, MySQL</td>
-    <td></td>
+    <td>Software for managing Hostipal database structure.</td>
   </tr>
   <tr>
     <td><a href=""><b>Credenz Website Backend</b></a></td>
