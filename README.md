@@ -47,7 +47,7 @@
     <td>NLP classification project to Predict the Emojis for the Given Text</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/CTD-NCC/NCC20"><b>NCC '20</b></a> and <a href="https://github.com/clash-rc-round-2/Clash-Round-2"><b>Clash RC</b></a></td>
+    <td><a href="https://github.com/CTD-NCC/NCC20"><b>NCC '20</b></a> and <a href="https://github.com/clash-rc-round-2/Clash-Round-2"><b>Clash RC' 19</b></a></td>
     <td>Django, SQLite</td>
     <td>Online Judge of C/CPP/Python for the contestants to submit the code</td>
   </tr>
