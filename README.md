@@ -34,7 +34,7 @@
   <tr>
     <td><a href=""><b>Credenz Website Backend</b></a></td>
     <td>Node JS, MongoDB</td>
-    <td>Created main website backend APIs for Technical Fest i.e. Credenz ‘20</td>
+    <td>Created main website backend APIs for Technical Fest (Credenz 20)</td>
   </tr>
   <tr>
     <td><a href="https://github.com/gauravghati/Question-Portal"><b>Question Portal</b></a></td>
@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/CTD-NCC/NCC20"><b>NCC '20</b></a> and <a href="https://github.com/clash-rc-round-2/Clash-Round-2"><b>Clash RC</b></a></td>
-    <td>Djnago REST, MySQL</td>
+    <td>Django, SQLite</td>
     <td>Online Judge of C/CPP/Python for the contestants to submit the code</td>
   </tr>
 </table>
