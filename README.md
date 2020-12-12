@@ -15,12 +15,12 @@
 **Open Source Repos Contributed to:** 
 <table>
   <tr>
-    <td><a href="https://github.com/gauravghati/kitsune"><b>Mozilla kitsune</b></a></td>
-    <td>Kitsune is the web platform that powers Mozilla support Website (support.mozilla.org)</td>
-  </tr>
-  <tr>
     <td><a href="https://github.com/gauravghati/mlpack/"><b>MLpack</b></a></td>
     <td>MLpack is a C++ machine learning library</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/gauravghati/kitsune"><b>Mozilla kitsune</b></a></td>
+    <td>Kitsune is the web platform that powers Mozilla support Website (support.mozilla.org)</td>
   </tr>
 </table>
 
