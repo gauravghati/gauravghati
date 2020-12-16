@@ -7,7 +7,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=gauravghati&count_private=true&show_icons=true&include_all_commits=true alt=gauravghati /> </p>
 
 </div align="center">
@@ -70,5 +70,3 @@
   </tr>
 </table>
 </div>
-
--->
