@@ -60,13 +60,13 @@
     <td><a href="https://github.com/gauravghati/OS-Programming"><b>OS-Programming</b></a></td>
     <td><a href="https://github.com/gauravghati/PL-SQL"><b>PL-SQL</b></a></td>
     <td><a href="https://github.com/gauravghati/Standard-Algorithms"><b>Standard Algorithms</b></a></td>
-    <td><a href="https://github.com/gauravghati/OperatingSystem-Algorithms"><b>OS Algorithms</b></a></td>
+    <td><a href="https://github.com/gauravghati/Data-Science-Honors"><b>Data Science Honors</b></a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/gauravghati/Object-Oriented-Programming-Lab"><b>Object Oriented Programming</b></a></td>
     <td><a href="https://github.com/gauravghati/Advance-Datastructure"><b>Advance Data Structures</b></a></td>
-    <td><a href="https://github.com/gauravghati/Fundamentals-Of-Datastructures"><b>Fundamentals Of Datastructures</b></a></td>
-    <td><a href=""><b></b></a></td>
+    <td><a href="https://github.com/gauravghati/Fundamentals-Of-Datastructures"><b>Fundamentals Of Datastructures</b></a></td>    
+    <td><a href="https://github.com/gauravghati/OperatingSystem-Algorithms"><b>OS Algorithms</b></a></td>
   </tr>
 </table>
 </div>
