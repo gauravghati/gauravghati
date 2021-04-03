@@ -11,6 +11,7 @@
 
 </div align="center">
 
+-->
 **Open Source Repos Contributed to:** 
 <table>
   <tr>
@@ -23,15 +24,16 @@
   </tr>
 </table>
 
+
 **Projects Repos:**
 <table>
   <tr>
-    <td><a href=""><b>Hospital Management System</b></a></td>
+    <td><a href="https://github.com/gauravghati/Hospital-Management-System"><b>Hospital Management System</b></a></td>
     <td>Java Swing, MySQL</td>
     <td>Software for managing Hostipal database structure.</td>
   </tr>
   <tr>
-    <td><a href=""><b>Credenz Website Backend</b></a></td>
+    <td><a href="https://github.com/credenz/credenz-website-backend"><b>Credenz Website Backend</b></a></td>
     <td>Node JS, MongoDB</td>
     <td>Main website backend APIs for Technical Fest (Credenz 20)</td>
   </tr>
@@ -69,4 +71,3 @@
   </tr>
 </table>
 </div>
--->
