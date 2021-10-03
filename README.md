@@ -33,6 +33,11 @@
     <td>Software for managing Hostipal database structure.</td>
   </tr>
   <tr>
+    <td><a href="https://github.com/gauravghati/dotin-react/"><b>Personal Website</b></a></td>
+    <td>ReactJS</td>
+    <td>Personal Website created in React and deployed it on github pages</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/credenz/credenz-website-backend"><b>Credenz Website Backend</b></a></td>
     <td>Node JS, MongoDB</td>
     <td>Main website backend APIs for Technical Fest (Credenz 20)</td>
