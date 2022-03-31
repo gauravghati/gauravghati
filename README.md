@@ -10,27 +10,19 @@
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=gauravghati&count_private=true&show_icons=true&include_all_commits=true alt=gauravghati /> </p>
 
 </div align="center">
-
 -->
-**Open Source Repos Contributed to:** 
-<table>
-  <tr>
-    <td><a href="https://github.com/gauravghati/mlpack/"><b>MLpack</b></a></td>
-    <td>MLpack is a C++ machine learning library</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/gauravghati/kitsune"><b>Mozilla kitsune</b></a></td>
-    <td>Kitsune is the web platform that powers Mozilla support Website (support.mozilla.org)</td>
-  </tr>
-</table>
 
-
-**Projects Repos:**
+**Projects Repos or Website Links :**
 <table>
   <tr>
     <td><a href="https://dvoting.github.io/"><b>De-centralized Voting</b></a></td>
     <td>Web 3 and Solidity</td>
     <td>a blockchain based decentralized voting applicatiaon</td>
+  </tr>
+  <tr>
+    <td><a href=""><b>Technology Assisted Review</b></a></td>
+    <td>NLP, ReactJS and Django</td>
+    <td> Training model using continuous Active Learning for documents review. </td>
   </tr>
   <tr>
     <td><a href="https://github.com/gauravghati/Hospital-Management-System"><b>Hospital Management System</b></a></td>
@@ -65,7 +57,7 @@
 </table>
 
 
-**Academics Repos:**
+**Academics Repos :**
 <table>
   <tr>
     <td><a href="https://github.com/gauravghati/OS-Programming"><b>OS-Programming</b></a></td>
@@ -81,3 +73,16 @@
   </tr>
 </table>
 </div>
+
+
+**Open Source Repos Contributed to:** 
+<table>
+  <tr>
+    <td><a href="https://github.com/gauravghati/mlpack/"><b>MLpack</b></a></td>
+    <td> MLpack is a C++ machine learning library </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/gauravghati/kitsune"><b>Mozilla kitsune</b></a></td>
+    <td>Kitsune is the web platform that powers Mozilla support Website (support.mozilla.org)</td>
+  </tr>
+</table>
