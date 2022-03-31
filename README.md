@@ -28,6 +28,11 @@
 **Projects Repos:**
 <table>
   <tr>
+    <td><a href="https://dvoting.github.io/"><b>De-centralized Voting</b></a></td>
+    <td>Web 3 and Solidity</td>
+    <td>a blockchain based decentralized voting applicatiaon</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/gauravghati/Hospital-Management-System"><b>Hospital Management System</b></a></td>
     <td>Java Swing, MySQL</td>
     <td>Software for managing Hostipal database structure.</td>
