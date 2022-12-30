@@ -15,11 +15,6 @@
 **Projects Repos or Website Links :**
 <table>
   <tr>
-    <td><a href="https://dvoting.github.io/"><b>De-centralized Voting</b></a></td>
-    <td>Web 3 and Solidity</td>
-    <td>a blockchain based decentralized voting applicatiaon</td>
-  </tr>
-  <tr>
     <td><a href=""><b>Technology Assisted Review</b></a></td>
     <td>NLP, ReactJS and Django</td>
     <td> Training model using continuous Active Learning for documents review. </td>
