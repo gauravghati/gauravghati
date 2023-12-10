@@ -10,7 +10,6 @@
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=gauravghati&count_private=true&show_icons=true&include_all_commits=true alt=gauravghati /> </p>
 
 </div align="center">
--->
 
 **Projects Repos or Website Links :**
 <table>
@@ -81,3 +80,6 @@
     <td>Kitsune is the web platform that powers Mozilla support Website (support.mozilla.org)</td>
   </tr>
 </table>
+
+-->
+
