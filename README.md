@@ -1,4 +1,4 @@
-Linkedin - [linkedin.gauravg.in](https://linekedin.gauravg.in/)
+Linkedin - [linkedin.gauravg.in](https://linkedin.gauravg.in/)
 
 Resume - [resume.gauravg.in](https://resume.gauravg.in/)
 <!--
