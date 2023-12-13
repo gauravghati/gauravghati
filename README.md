@@ -1,6 +1,6 @@
-[![Linkedin Badge](https://img.shields.io/badge/-Gaurav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gauravghati/)](https://www.linkedin.com/in/gauravghati/)
+Linkedin - [linkedin.gauravg.in](https://linekedin.gauravg.in/)
 
-My Resume - [resume.gauravg.in](https://resume.gauravg.in/)
+Resume - [resume.gauravg.in](https://resume.gauravg.in/)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
